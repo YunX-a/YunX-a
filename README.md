@@ -1,6 +1,16 @@
 # Hi, I'm YunX 👋
 
-从模型实验，到应用实现。探索大模型应用、检索增强生成与科学计算。
+从模型实验，到推理服务与应用实现。关注 AI Infra、大模型应用与科学计算。
+
+## AI Infra · 实习实践
+
+面向国产及异构算力的大模型推理服务，参与部署适配、性能测试、精度评测与工程化工具建设。
+
+<p align="center">
+  <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/experience-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/experience-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/experience-light.svg"><img alt="实习技术实践：推理服务部署与适配、性能测试与精度评测、性能分析与兼容排障、测试自动化与技术沉淀" src="./assets/experience-light.svg" width="100%" align="top"></picture>
+</p>
+
+<sub>技术实践概述，已按公开展示口径脱密。</sub>
 
 ## Open Source · 开源贡献
 
@@ -37,6 +47,7 @@
 ## Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![SGLang](https://img.shields.io/badge/SGLang-5B5BD6?style=flat-square)](https://github.com/sgl-project/sglang)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
