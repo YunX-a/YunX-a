@@ -1,34 +1,50 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" alt="YunX — 从模型实验，到应用实现。探索大模型应用、检索增强生成与科学计算。" width="100%">
-</picture>
+# Hi, I'm YunX 👋
 
-## Projects · 项目
-
-<!-- Fixed-width cards wrap into one column on narrow screens; no custom CSS or external image service. -->
-<p align="center">
-  <a href="https://github.com/YunX-a/my-rag-learning"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rag-dark.svg"><img src="./assets/rag-light.svg" alt="RAG 知识库助手：文档检索、流式问答与来源引用。FastAPI / Vue 3 / Milvus。" width="360"></picture></a>
-  <a href="https://github.com/YunX-a/image-to-diagram-xml"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/diagram-dark.svg"><img src="./assets/diagram-light.svg" alt="图像到可编辑图表：探索论文思路与 draw.io XML 生成。Python / draw.io / XML。" width="360"></picture></a>
-  <br>
-  <a href="https://github.com/YunX-a/YSU-QA-BM"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ysu-dark.svg"><img src="./assets/ysu-light.svg" alt="YSU 教务问答：ChatGLM3-6B + LoRA 的教务问答实验。PyTorch / LLaMA-Factory / Streamlit。" width="360"></picture></a>
-  <a href="https://github.com/YunX-a/OC2025_wave-ysu"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/wave-dark.svg"><img src="./assets/wave-light.svg" alt="地震波传播预测：多种神经网络的二维波场预测实验。PyTorch / U-Net / TransUNet。" width="360"></picture></a>
-</p>
-
-卡片展示的是项目流程示意；实现、环境说明与实验记录见各项目仓库。
-
-更多实验：[LangChain RAG Bot](https://github.com/YunX-a/langchain-rag-bot) · 文档问答与检索服务。
+从模型实验，到应用实现。探索大模型应用、检索增强生成与科学计算。
 
 ## Open Source · 开源贡献
 
-| 项目 | 工作 | PR |
-| --- | --- | --- |
-| [eduagent](https://github.com/im-zhong/eduagent) | 基于 fastapi-users 集成用户管理、JWT 认证与异步数据库支持，补充认证流程测试 | [#24 · 已合并](https://github.com/im-zhong/eduagent/pull/24) |
-| [eduagent](https://github.com/im-zhong/eduagent) | 更新项目 README | [#6 · 已合并](https://github.com/im-zhong/eduagent/pull/6) |
+<p align="center">
+  <a href="https://github.com/search?q=author%3AYunX-a+-user%3AYunX-a&type=pullrequests">
+    <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/oss-contributions-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/oss-contributions-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/oss-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/oss-contributions-light.svg"><img alt="开源贡献 — 3 条公开 PR，其中 2 条已合并" src="./assets/oss-contributions-light.svg" width="100%" align="top"></picture>
+  </a>
+</p>
 
-## Toolbox · 常用工具
+已合并：[eduagent #24 · 用户管理与认证](https://github.com/im-zhong/eduagent/pull/24) · [#6 · README 更新](https://github.com/im-zhong/eduagent/pull/6)
 
-`Python` · `FastAPI` · `PyTorch` · `LangChain` · `Vue` · `Docker`
+## Portfolio · 作品集
 
-[查看全部仓库](https://github.com/YunX-a?tab=repositories)
+<p align="center"><a href="https://github.com/YunX-a/my-rag-learning"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/rag-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/rag-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/rag-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/rag-light.svg"><img alt="RAG 知识库助手 — 文档检索、流式问答与来源引用" src="./assets/rag-light.svg" width="420" align="top"></picture></a>
+<a href="https://github.com/YunX-a/image-to-diagram-xml"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/diagram-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/diagram-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/diagram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/diagram-light.svg"><img alt="图像到可编辑图表 — Draw with Thought 论文复现探索" src="./assets/diagram-light.svg" width="420" align="top"></picture></a>
+<br><a href="https://github.com/YunX-a/YSU-QA-BM"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/ysu-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/ysu-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/ysu-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/ysu-light.svg"><img alt="YSU 教务问答 — ChatGLM3-6B + LoRA 教务问答实验" src="./assets/ysu-light.svg" width="420" align="top"></picture></a>
+<a href="https://github.com/YunX-a/OC2025_wave-ysu"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/wave-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/wave-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/wave-light.svg"><img alt="地震波传播预测 — 多种神经网络的二维波场预测实验" src="./assets/wave-light.svg" width="420" align="top"></picture></a>
+</p>
+
+更多实验：[LangChain RAG Bot](https://github.com/YunX-a/langchain-rag-bot) · 文档问答与检索服务。
+
+## Vibe Coding · 氛围编程
+
+<p align="center">
+  <a href="https://github.com/YunX-a?tab=overview">
+    <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/vibe-coding-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/vibe-coding-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/vibe-coding-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/vibe-coding-light.svg"><img alt="GitHub 公开编码活动 — 20 次贡献，10 个活跃日" src="./assets/vibe-coding-light.svg" width="100%" align="top"></picture>
+  </a>
+</p>
+
+<sub>图表为 GitHub 公开贡献快照；更新于 2026-10-28。作品集卡片内为项目示意。</sub>
+
+---
+
+## Tech Stack
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+
+---
+
+<p align="center"><i>从想法出发，在实验和代码中迭代。</i></p>
+
+<!-- Layout inspired by https://github.com/PekingSpades/PekingSpades. Assets created for YunX-a. -->
